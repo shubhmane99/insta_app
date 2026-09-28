@@ -5,7 +5,7 @@ class DashBoard extends StatelessWidget{
     return Scaffold(
       body : Center(
         child : Text("home screen")
-      )
-    );
+      );
+    )
   }
 }
