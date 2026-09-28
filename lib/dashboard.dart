@@ -4,8 +4,8 @@ class DashBoard extends StatelessWidget{
   Widget build(BuildContext context){
     return Scaffold(
       body : Center(
-        child : Text("home")
-      )
+        child : Text("home screen")
+      );
     )
   }
 }
